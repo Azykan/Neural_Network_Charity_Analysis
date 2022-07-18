@@ -24,9 +24,12 @@ The first phase utilized two hidden layers and one outer layer. The neurons were
 ![image](https://user-images.githubusercontent.com/97486216/179438861-bee85f42-f1a7-402d-be6c-57b37f63393c.png)
 
 - Were you able to achieve the target model performance?
-I was not able to achieve the target model preformance in the first phase. The highest accuracy evaluated by the model was 0.70
-![image](https://user-images.githubusercontent.com/97486216/179439078-cff00878-c2a5-46c2-8823-6c69e4e24ca6.png)
+I was not able to achieve the target model preformance in the first phase. The highest accuracy evaluated by the model was 0.711
+![image](https://user-images.githubusercontent.com/97486216/179439553-86a8a010-070c-4d32-9b4b-d090261c6d5f.png)
+
 
 - What steps did you take to try and increase model performance?
-Added 
+Added more hidden layers. Reduced the number of neurons, increased the epochs, and used the same activation function for every layer. Which increased the model performance to 0.73. Even with multiple changes of hidden layers, numbers of neorons and epochs, I was still not able to  create results that increased the performance to reach .75.
+![image](https://user-images.githubusercontent.com/97486216/179440053-5a6a1963-9240-431e-a9bc-eb4d60abbe33.png)
+
 ## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
