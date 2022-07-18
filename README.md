@@ -35,6 +35,6 @@ Added more hidden layers. Reduced the number of neurons, increased the epochs, a
 
 ![image](https://user-images.githubusercontent.com/97486216/179440053-5a6a1963-9240-431e-a9bc-eb4d60abbe33.png)
 
-## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem and explain your recommendation.
+### Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem and explain your recommendation.
 With the given data set, I was only able to get 73% accuracy even after dropping two irrelevant features. If given more relevant data, the accuracy of 75% or more could have possibly been achieved.
 
